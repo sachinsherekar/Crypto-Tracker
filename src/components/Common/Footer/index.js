@@ -5,8 +5,8 @@ import LinkedInIcon from '@mui/icons-material/LinkedIn'; // Added LinkedInIcon
 import './styles.css';
 
 const Footer = () => {
-    const githubProfileLink = "https://github.com/TejaswiniHirudkar"; // Replace with your GitHub profile URL
-    const linkedinProfileLink = "https://www.linkedin.com/in/tejaswini-hirudkar-0a709b20a"; // Replace with your LinkedIn profile URL
+    const githubProfileLink = "https://github.com/sachinsherekar"; 
+    const linkedinProfileLink = "https://www.linkedin.com/in/sachin-sherekar-848572137/"; 
 
     return (
         <div className='footer'>
