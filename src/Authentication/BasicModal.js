@@ -49,6 +49,8 @@ export default function BasicModal() {
     }
   };
 
+
+  
   return (
     <div>
       <div className='btn-outlined' onClick={() => setOpen(true)}>{isLogin ? 'Login' : 'Signup'}</div>
